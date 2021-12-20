@@ -44,7 +44,7 @@
   font-size: 2rem;
 }
 
-.fa-gem {
+.fa-mountain {
   margin-right: 0.5rem;
 }
 
@@ -397,7 +397,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/pic3.jpg");
+    url("/images/lead.png");
   background-size: cover;
   position: relative;
   color: #fff;
@@ -409,7 +409,16 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/pic4.jpg");
+    url("/images/boulder.png");
+}
+
+.services__card:nth-child(3) {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(17, 17, 17, 0.6) 100%
+    ),
+    url("/images/speed.png");
 }
 
 .services h2 {
