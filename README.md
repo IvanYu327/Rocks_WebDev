@@ -1,6 +1,6 @@
 # ROCKS
 
-I made a website! Following a tutorial on HTML/CSS and JS, I created a styled home page and then used what I learn to create a site about rock climbing
+I made a website! Following a tutorial on HTML/CSS and JS, I created a styled home page and then used what I learn to create a site about my favourite sport, rock climbing! :D
 
 ![image](https://user-images.githubusercontent.com/85257356/146812322-16ac1a2d-b551-426a-9df7-3933ccd8043a.png)
 
