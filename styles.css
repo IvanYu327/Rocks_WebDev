@@ -397,7 +397,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/lead.png");
+    url("images/lead.png");
   background-size: cover;
   position: relative;
   color: #fff;
@@ -409,7 +409,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/boulder.png");
+    url("images/boulder.png");
 }
 
 .services__card:nth-child(3) {
@@ -418,7 +418,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/speed.png");
+    url("images/speed.png");
 }
 
 .services h2 {
